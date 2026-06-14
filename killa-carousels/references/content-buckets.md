@@ -1,5 +1,5 @@
 # High-Selling Content Buckets Reference
-## By Maha Copy Co.
+## By Phil Asiimwe.
 
 ---
 
