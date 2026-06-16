@@ -1,5 +1,4 @@
 # 265 Clickable Post Title Templates
-## By Phil Asiimwe.
 
 Organized by content category from High-Selling Content Buckets. Most can be mixed and matched across categories. Goal: give you IDEAS, not restrictions. Play with wording to find what sounds best.
 
