@@ -52,7 +52,7 @@ These words and patterns are immediate AI giveaways. Cut them from every slide:
 - "At the end of the day..."
 
 **Punctuation tells:**
-- Em dashes inside titles (`—`). Maha uses periods, commas, or arrows instead.
+- Em dashes inside titles (`—`). The pros use periods, commas, or arrows instead.
 - Colons mid-title for "Topic: subtitle" framing. Reframe as one thought.
 - Curly/smart quotes when typing — use straight quotes unless the platform converts.
 
