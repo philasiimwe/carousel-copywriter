@@ -1,5 +1,4 @@
 # Voice & Formatting Reference
-## By Phil Asiimwe.
 
 This file contains all rules for making carousel copy sound human, casual, and NOT like AI-generated content.
 
