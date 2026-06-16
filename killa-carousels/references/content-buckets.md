@@ -1,5 +1,4 @@
 # High-Selling Content Buckets Reference
-## By Phil Asiimwe.
 
 ---
 
