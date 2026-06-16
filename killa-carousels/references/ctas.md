@@ -1,5 +1,4 @@
 # Plug-and-Play CTAs Reference
-## By Phil Asiimwe.
 
 A CTA (call-to-action) is a simple, clear, and SPECIFIC instruction about what you want your audience to do next. Use a CTA at the end of every post. Structure: Primary Lead-In + Primary CTA. Optionally add a Secondary Lead-In + Secondary CTA for engagement.
 
