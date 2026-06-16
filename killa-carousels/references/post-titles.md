@@ -21,7 +21,7 @@ The 265 templates below are starting points — they only work if filled in with
 
 ### Examples of the Voice You're Aiming At
 
-These are real Maha Copy Co. titles. Every template you pick should produce something that sounds like these:
+Every template you pick should produce something that sounds like these:
 
 - *"I failed a client project on purpose »"*
 - *"WTF even is an email funnel?"*
